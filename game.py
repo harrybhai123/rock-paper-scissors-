@@ -1,4 +1,4 @@
-# rock-paper-scissors game
+# rock-paper-scissors Game
 
 #first install these modules \/ \/
 
