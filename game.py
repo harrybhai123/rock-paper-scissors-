@@ -1,6 +1,6 @@
 # rock-paper-scissors Game
 
-#first install these modules \/ \/
+#first install these modules 👇👇
 
 from pyfiglet import figlet_format as f_form
 
