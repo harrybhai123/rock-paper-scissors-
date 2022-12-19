@@ -2,9 +2,7 @@
 
 #first install these modules 👇👇
 
-from pyfiglet import figlet_format as f_form
 
-from termcolor2 import colored
 
 
 print(colored("Rock...." ,"blue"))
