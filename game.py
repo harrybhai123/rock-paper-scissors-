@@ -7,9 +7,9 @@ from pyfiglet import figlet_format as f_form
 from termcolor2 import colored
 
 
-print(colored("Rock...." ,"blue"))
-print(colored("Paper....", "magenta"))
-print(colored("Scissors....", "blue"))
+# print(colored("Rock...." ,"blue"))
+# print(colored("Paper....", "magenta"))
+# print(colored("Scissors....", "blue"))
 
 gameRaund = int(input("What would you like the final score to be?"))
 
